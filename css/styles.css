@@ -120,7 +120,7 @@ ul {
     text-align: center;
     letter-spacing: 0.06em;
     text-transform: uppercase;
-    color: var(--main-title-color);
+    color: #fff;
 }
 
 .header-btn {
