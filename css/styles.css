@@ -37,10 +37,6 @@ body {
     letter-spacing: 0.03em;
 }
 
-.curent {
-    color: var(--accent-color);
-}
-
 
 /* ------------------HEADER--------------------- */
 
@@ -50,6 +46,10 @@ body {
     line-height: 1.14;
     letter-spacing: 0.02em;
     color: #212121;
+}
+
+.curent {
+    color: var(--accent-color);
 }
 
 .header-mail,
