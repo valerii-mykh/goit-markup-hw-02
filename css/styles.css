@@ -8,6 +8,15 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
+.box {
+    padding: 94px 215px;
+}
+
+ul {
+    padding: 0;
+    margin: 0;
+}
+
 .list {
     list-style: none;
 }
@@ -25,6 +34,7 @@ body {
     font-size: 26px;
     line-height: calc(31 / 26);
     letter-spacing: 0.03em;
+    padding-right: 93px;
 }
 
 .web {
@@ -46,16 +56,7 @@ body {
 .header {
     display: flex;
     flex-direction: row;
-}
-
-.header-logo {
-    font-family: 'Raleway';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 26px;
-    line-height: calc(31 / 26);
-    letter-spacing: 0.03em;
-    color: var(--accent-color);
+    align-items: center;
 }
 
 .header-nav {
