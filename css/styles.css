@@ -137,13 +137,13 @@ body {
 }
 
 .team-title {
+    font-size: 16px;
     font-weight: 500;
     line-height: 1.18;
     letter-spacing: 0.03em
 }
 
 .team-text {
-    font-weight: 400;
     line-height: 1.18;
     letter-spacing: 0.03em;
     color: #757575;
@@ -177,10 +177,6 @@ address {
 
 
 /* ------------------PORTFOLIO--------------------- */
-
-.portfolio {
-    background-color: #E5E5E5;
-}
 
 button {
     font-family: inherit;
